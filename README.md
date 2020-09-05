@@ -1,0 +1,143 @@
+## Aleksei Ivanov
+
+### Full-stack web developer
+
+
+#### Yekaterinburg, Russian Federation
+
+
+## Experienced full-stack web developer with a management background.
+
+
+
+### PERSONAL INFORMATION
+  Address: Russian Federation, Yekaterinburg, 
+  Date of birth: 25.09.1985 
+  Nationality: Russian
+  Driving License: B
+  Hobbies: Volleyball
+           Bike trial(side hop 110cm)
+           Snowboarding (bs 540, fs boardslide pretzel out)
+           Portrait photography
+
+
+### SOCIAL PROFILES
+  * github: https://github.com/alxekb
+
+
+### LANGUAGES
+  ★★★★★ Russian
+  
+  ★★★★☆ English
+  
+  ★★☆☆☆ Italian
+  
+  ★☆☆☆☆ German
+  
+
+### SKILLS
+
+  Ruby
+  
+  Ruby on Rails
+  
+  JavaScript
+  
+  React
+  
+  Gatsby
+  
+  NextJS
+  
+  Docker
+  
+  AWS
+  
+  
+
+### WORK EXPERIENCE
+
+  * March 2020 – September 2020
+  
+    Full stack web developer at Instatscout, Moscow
+    
+      Ruby scout (RoR, React)
+      
+      bug-fix, feature deliver query optimization, caching.
+
+
+  * August 2019 – March 2020
+  
+    Full-stack web developer at Rubyroid labs, Minsk
+    
+      Built a Crypto stock platform (RoR, Grape, Angular)
+      
+      Dockerized internal app
+      
+      Bugfix and feature release
+      
+
+  * February 2019 – August 2019
+  
+    Full-stack web developer at Upwork, Ekaterinburg
+    
+      Freelance assorted projects from small to medium-sized projects 
+      
+      (Rails, Linux administration, Slack plugin integration, CRM development etc.)
+      
+
+  * November 2018 – April 2019
+  
+    Full-stack web developer at Fordstone LTD, 
+    
+      MVP Diveshop development (USA) (RoR, SLIM, jQuery)
+      
+
+  * April 2018 – December 2018
+  
+    Full stack web developer at Photobookingsystem, 
+    
+      MVP startup for photographers. (RoR, jQuery, HAML, SCSS)
+      
+
+
+### EDUCATION
+
+  * September 2002 – September 2007
+  
+    USMGA, Ekaterinburg engineer
+    
+
+    Information systems
+    
+
+### EXTRA-CURRICULAR ACTIVITIES
+
+  * August 2019 – Present
+  
+    Executive Director at Unicollezione, Ekaterinburg
+    
+
+    General management
+    
+    Hiring
+    
+    Photography
+    
+
+### COURSES
+
+  * February 2017 – February 2017
+  
+    Project Management essentials, PMI
+    
+
+### REFERENCES
+
+  * Zulkar from Instatscout
+  
+  * Igor from Rubyriod labs
+  
+  * Aleksandr fron Desire
+  
+
