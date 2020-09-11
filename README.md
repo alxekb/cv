@@ -1,12 +1,8 @@
 ## Aleksei Ivanov
 
-#### Full-stack web developer
+## Experienced full-stack web developer with management background.
 
 #### Yekaterinburg, Russian Federation
-
-
-## Experienced full-stack web developer with a management background.
-
 
 
 ### PERSONAL INFORMATION
@@ -16,15 +12,6 @@
   Date of birth: 25.09.1985
 
   Nationality: Russian
-
-  Hobbies: Volleyball
-
-           Bike trial(side hop 110cm)
-
-           Snowboarding (bs 540, fs boardslide pretzel out)
-
-           Portrait photography
-
 
 ### SOCIAL PROFILES
 
@@ -74,7 +61,7 @@
 
     Full stack web developer at Instatscout, Moscow
 
-      Ruby scout (RoR, React)
+      Ruby scout (Ruby on Rails 4.2, React)
 
       bug-fix, feature deliver query optimization, caching.
 
@@ -83,7 +70,7 @@
 
     Full-stack web developer at Rubyroid labs, Minsk
 
-      Built a Crypto stock platform (RoR, Grape, Angular)
+      Built a Crypto stock platform (Ruby on Rails, Grape, Angular)
 
       Dockerized internal app
 
@@ -154,3 +141,13 @@
   * Aleksandr fron Desire
 
 
+
+### Hobbies:
+
+  *  Volleyball
+
+  *  Bike trial(side hop 110cm)
+
+  *  Snowboarding (bs 540, fs boardslide pretzel out)
+
+  *  Portrait photography
