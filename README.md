@@ -4,6 +4,7 @@
 
 #### Yekaterinburg, Russian Federation
 
+I studied computer science and informatics at USMGA university and started my career in 2017 as a professional web developer. I have a classic Rails stack with a focus on the backend. I'm self-dependent, eager to learn result-oriented. I'm comfortable to work without strict directions. Usually, I have only Figma design to build an API, I understand business requirements and combine my management background with my tech knowledge to deliver a product on time.
 
 ### PERSONAL INFORMATION
 
