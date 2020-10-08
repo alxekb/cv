@@ -18,8 +18,6 @@ I studied computer science and informatics at USMGA university and started my ca
 
   * whatsapp: https://wa.me/79126568638
 
-  * email: alx.ekb@gmail.com
-
   * github: https://github.com/alxekb
 
 
@@ -37,6 +35,8 @@ I studied computer science and informatics at USMGA university and started my ca
 ### SKILLS
 
   Ruby
+  
+  Grape
 
   Ruby on Rails
 
@@ -124,6 +124,9 @@ I studied computer science and informatics at USMGA university and started my ca
       Hiring
 
       Photography
+  
+   
+   *  Learning Dart / Flutter
 
 
 ### COURSES
